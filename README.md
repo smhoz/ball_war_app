@@ -1,7 +1,7 @@
 # Flutter Ball War Game App
 
 
-i changed the game by @mitchkoko a little bit
+I changed the game by @mitchkoko
 
 I hope you like it :)
 
